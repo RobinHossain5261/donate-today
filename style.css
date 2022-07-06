@@ -179,6 +179,22 @@ hr {
     padding-left: 150px;
 }
 
+.photo {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.pic-underline {
+    width: 60%;
+}
+
+.pic-one img {
+    width: 40%;
+    padding-left: 5%;
+    padding-bottom: 50px;
+}
+
 .update {
     text-align: center;
 }
