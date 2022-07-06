@@ -42,6 +42,7 @@ body {
     border-radius: 5px;
 
 
+
 }
 
 .donate-today {
@@ -124,4 +125,34 @@ hr {
     padding: 30px;
     border-radius: 10px;
     box-shadow: 10px 10px 5px gray;
+}
+
+.lives-depend {
+    width: 80%;
+    display: flex;
+    padding: 100px 0px;
+    margin: auto;
+}
+
+.half-width {
+    width: 45%;
+
+}
+
+.half-width img {
+    width: 120%;
+    padding-left: 20px;
+}
+
+.half-width h1 {
+    font-size: 50px;
+}
+
+.highlites {
+    font-weight: bold;
+}
+
+.text-hlp {
+    color: gray;
+    padding-bottom: 20px;
 }
