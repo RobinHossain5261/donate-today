@@ -22,6 +22,10 @@ body {
     padding-top: 300px;
 }
 
+.color {
+    color: orange;
+}
+
 .bg-image p {
     color: #fff;
     font-weight: bold;
@@ -81,4 +85,43 @@ h3 {
 
 hr {
     margin-bottom: 40px;
+    width: 60%;
+}
+
+.donet-text {
+    text-align: center;
+}
+
+.flex-box {
+    display: flex;
+    padding: 20px 0px;
+    width: 80%;
+    margin: auto;
+}
+
+.box1 {
+    background-color: bisque;
+    width: 30%;
+    margin-left: 0px 2%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px gray;
+}
+
+.box2 {
+    background-color: #FFB6C1;
+    width: 30%;
+    margin: 0px 2%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px gray;
+}
+
+.box3 {
+    background-color: darkslategrey;
+    width: 30%;
+    margin-left: 0px 2%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px gray;
 }
