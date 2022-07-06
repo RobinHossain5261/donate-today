@@ -84,6 +84,8 @@ h3 {
     border: none;
     padding: 20px 40px;
     text-align: center;
+    outline: none;
+    font-size: 18px;
 }
 
 hr {
