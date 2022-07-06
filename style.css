@@ -1,6 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    overflow: hidden;
+
 }
 
 .bg-image {
@@ -12,13 +12,14 @@ body {
     text-align: center;
 
 
+
 }
 
 .bg-image h1 {
     color: #fff;
 
     font-size: 80px;
-    padding-top: 200px;
+    padding-top: 300px;
 }
 
 .bg-image p {
@@ -34,7 +35,50 @@ body {
     font-weight: bold;
     text-decoration: none;
     font-size: 18px;
-    border-radius: 10px;
+    border-radius: 5px;
 
 
+}
+
+.donate-today {
+    text-align: center;
+    margin: 100px 0px;
+}
+
+.head-text {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.text {
+    color: gray;
+}
+
+.donet-taka {
+
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    padding: 20px 50px;
+    color: gray;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.select-taka {
+    background-color: lightpink;
+    border: 2px solid red;
+    color: red;
+}
+
+.amount {
+    border: none;
+    padding: 20px 40px;
+    text-align: center;
+}
+
+hr {
+    margin-bottom: 40px;
 }
