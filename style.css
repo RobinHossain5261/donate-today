@@ -34,12 +34,13 @@ body {
 
 .link-button {
     background-image: linear-gradient(orange, tomato);
-    padding: 10px 30px;
+    padding: 20px 30px;
     color: #fff;
     font-weight: bold;
     text-decoration: none;
     font-size: 18px;
     border-radius: 5px;
+    letter-spacing: 2px;
 
 
 
@@ -185,21 +186,46 @@ hr {
     margin: auto;
     padding: 100px 0px;
     background-color: #FFB6C1;
+
 }
 
 #mail {
-    padding: 10px 50px;
+    padding: 15px 50px;
     border: none;
     font-size: 18px;
+    outline: none;
+    border-radius: 10px;
 
 }
 
 #sub {
-    padding: 10px 30px;
+    padding: 15px 30px;
     border: none;
     font-size: 18px;
     font-weight: bold;
     color: #fff;
     background-color: red;
     margin-left: -10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    outline: none;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 25px 0px;
+    margin-top: 100px;
+
+
+}
+
+footer h1 {
+    font-size: 50px;
+    color: red;
+    font-family: 'Satisfy', cursive;
+}
+
+footer p {
+    color: gainsboro
 }
